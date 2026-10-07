@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Carlos",
+  "patient_last_name": "Chen",
+  "patient_dob": "1999-08-24",
+  "patient_phone": "(712) 421-6805",
+  "insurance_payer": "Cigna HMO",
+  "insurance_member_id": "AA86630821",
+  "referring_provider": "Dr. Anita Desai",
+  "referring_npi": "1122417664",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I48.91"
+  ],
+  "reason": "New onset atrial fibrillation",
+  "urgency": "routine"
+}

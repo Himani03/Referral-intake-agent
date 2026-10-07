@@ -1,0 +1,21 @@
+{
+  "extractor": "ollama",
+  "faxes": 25,
+  "mean_field_accuracy": 0.997,
+  "auto_submit_rate": 0.96,
+  "auto_submit_precision": 1.0,
+  "per_field": {
+    "patient_first_name": 1.0,
+    "patient_last_name": 1.0,
+    "patient_dob": 1.0,
+    "patient_phone": 1.0,
+    "insurance_payer": 1.0,
+    "insurance_member_id": 1.0,
+    "referring_provider": 1.0,
+    "referring_npi": 0.96,
+    "specialty": 1.0,
+    "icd10_codes": 1.0,
+    "reason": 1.0,
+    "urgency": 1.0
+  }
+}

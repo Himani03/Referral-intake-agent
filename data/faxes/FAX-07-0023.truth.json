@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Aisha",
+  "patient_last_name": "Kim",
+  "patient_dob": "1988-04-10",
+  "patient_phone": "(581) 263-8160",
+  "insurance_payer": "Kaiser Permanente",
+  "insurance_member_id": "AZ61871210",
+  "referring_provider": "Dr. Anita Desai",
+  "referring_npi": "1640152991",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "R19.5"
+  ],
+  "reason": "Positive FIT test, needs colonoscopy",
+  "urgency": "urgent"
+}

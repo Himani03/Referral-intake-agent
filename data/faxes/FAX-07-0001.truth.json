@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "James",
+  "patient_last_name": "Rossi",
+  "patient_dob": "1949-04-01",
+  "patient_phone": "(496) 816-4863",
+  "insurance_payer": "Cigna HMO",
+  "insurance_member_id": "YZ55231240",
+  "referring_provider": "Dr. Joy Mensah",
+  "referring_npi": "1215941646",
+  "specialty": "Ophthalmology",
+  "icd10_codes": [
+    "H25.13"
+  ],
+  "reason": "Bilateral cataracts, worsening night vision",
+  "urgency": "routine"
+}

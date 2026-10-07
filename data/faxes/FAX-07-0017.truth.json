@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "James",
+  "patient_last_name": "Rossi",
+  "patient_dob": "1952-11-02",
+  "patient_phone": "(294) 435-5504",
+  "insurance_payer": "UnitedHealthcare",
+  "insurance_member_id": "YX23694693",
+  "referring_provider": "Dr. Mark Feldman",
+  "referring_npi": "1674684042",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "R19.5"
+  ],
+  "reason": "Positive FIT test, needs colonoscopy",
+  "urgency": "routine"
+}

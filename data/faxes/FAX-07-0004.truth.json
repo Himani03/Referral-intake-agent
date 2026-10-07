@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Grace",
+  "patient_last_name": "Johnson",
+  "patient_dob": "1955-09-28",
+  "patient_phone": "(489) 884-4324",
+  "insurance_payer": "Blue Shield of CA",
+  "insurance_member_id": "AA17432660",
+  "referring_provider": "Dr. Anita Desai",
+  "referring_npi": "1817315652",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K21.9"
+  ],
+  "reason": "Chronic reflux not responding to PPI",
+  "urgency": "routine"
+}

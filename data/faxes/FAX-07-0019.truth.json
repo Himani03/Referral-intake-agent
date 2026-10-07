@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Emily",
+  "patient_last_name": "Alvarez",
+  "patient_dob": "1974-08-13",
+  "patient_phone": "(476) 843-1505",
+  "insurance_payer": "UnitedHealthcare",
+  "insurance_member_id": "CX78114770",
+  "referring_provider": "Dr. Linda Park",
+  "referring_npi": "1271054912",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "R07.9",
+    "I10"
+  ],
+  "reason": "Chest pain on exertion, abnormal ECG; Uncontrolled hypertension despite two agents",
+  "urgency": "urgent"
+}

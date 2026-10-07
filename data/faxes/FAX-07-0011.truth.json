@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Hiro",
+  "patient_last_name": "Tanaka",
+  "patient_dob": "1952-11-03",
+  "patient_phone": "(866) 270-9746",
+  "insurance_payer": "Medicare Part B",
+  "insurance_member_id": "YA18144377",
+  "referring_provider": "Dr. Linda Park",
+  "referring_npi": "1936327620",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I10"
+  ],
+  "reason": "Uncontrolled hypertension despite two agents",
+  "urgency": "routine"
+}

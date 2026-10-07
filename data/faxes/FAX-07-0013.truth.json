@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Daniel",
+  "patient_last_name": "Nguyen",
+  "patient_dob": "1957-01-04",
+  "patient_phone": "(547) 389-4472",
+  "insurance_payer": "Aetna PPO",
+  "insurance_member_id": "XB28082989",
+  "referring_provider": "Dr. Anita Desai",
+  "referring_npi": "1042691679",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K50.90",
+    "R19.5"
+  ],
+  "reason": "Suspected Crohn's disease; Positive FIT test, needs colonoscopy",
+  "urgency": "routine"
+}

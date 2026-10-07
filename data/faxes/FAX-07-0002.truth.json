@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Emily",
+  "patient_last_name": "Tanaka",
+  "patient_dob": "1978-05-20",
+  "patient_phone": "(951) 812-7807",
+  "insurance_payer": "Cigna HMO",
+  "insurance_member_id": "XC25691805",
+  "referring_provider": "Dr. Joy Mensah",
+  "referring_npi": "1420227310",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K21.9",
+    "K50.90"
+  ],
+  "reason": "Chronic reflux not responding to PPI; Suspected Crohn's disease",
+  "urgency": "routine"
+}

@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Hiro",
+  "patient_last_name": "Rossi",
+  "patient_dob": "1995-03-02",
+  "patient_phone": "(697) 276-2784",
+  "insurance_payer": "Medicare Part B",
+  "insurance_member_id": "YC97431716",
+  "referring_provider": "Dr. Joy Mensah",
+  "referring_npi": "1710569652",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I10",
+    "I48.91"
+  ],
+  "reason": "Uncontrolled hypertension despite two agents; New onset atrial fibrillation",
+  "urgency": "urgent"
+}

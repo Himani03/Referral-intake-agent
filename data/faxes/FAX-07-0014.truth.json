@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Fatima",
+  "patient_last_name": "Kim",
+  "patient_dob": "1994-11-09",
+  "patient_phone": "(655) 317-9469",
+  "insurance_payer": "Kaiser Permanente",
+  "insurance_member_id": "BZ79218168",
+  "referring_provider": "Dr. Mark Feldman",
+  "referring_npi": "1893460240",
+  "specialty": "Ophthalmology",
+  "icd10_codes": [
+    "H40.11"
+  ],
+  "reason": "Suspected primary open-angle glaucoma, elevated IOP",
+  "urgency": "routine"
+}

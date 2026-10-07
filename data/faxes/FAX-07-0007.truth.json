@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Emily",
+  "patient_last_name": "Haddad",
+  "patient_dob": "1960-07-04",
+  "patient_phone": "(565) 986-6698",
+  "insurance_payer": "UnitedHealthcare",
+  "insurance_member_id": "CC11480943",
+  "referring_provider": "Dr. Mark Feldman",
+  "referring_npi": "1113727394",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K21.9",
+    "K50.90"
+  ],
+  "reason": "Chronic reflux not responding to PPI; Suspected Crohn's disease",
+  "urgency": "routine"
+}

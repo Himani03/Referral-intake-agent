@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Omar",
+  "patient_last_name": "Nguyen",
+  "patient_dob": "1951-06-30",
+  "patient_phone": "(233) 319-8693",
+  "insurance_payer": "Kaiser Permanente",
+  "insurance_member_id": "CB61320180",
+  "referring_provider": "Dr. Anita Desai",
+  "referring_npi": "1903622755",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K50.90",
+    "K21.9"
+  ],
+  "reason": "Suspected Crohn's disease; Chronic reflux not responding to PPI",
+  "urgency": "urgent"
+}

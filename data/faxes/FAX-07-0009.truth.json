@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Carlos",
+  "patient_last_name": "Brooks",
+  "patient_dob": "1945-05-12",
+  "patient_phone": "(484) 605-4249",
+  "insurance_payer": "Blue Shield of CA",
+  "insurance_member_id": "ZZ48285524",
+  "referring_provider": "Dr. Samuel Reyes",
+  "referring_npi": "1333172819",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I10"
+  ],
+  "reason": "Uncontrolled hypertension despite two agents",
+  "urgency": "routine"
+}

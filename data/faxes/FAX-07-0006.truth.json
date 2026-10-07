@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Carlos",
+  "patient_last_name": "Johnson",
+  "patient_dob": "1983-01-13",
+  "patient_phone": "(662) 797-3412",
+  "insurance_payer": "Kaiser Permanente",
+  "insurance_member_id": "ZX80525949",
+  "referring_provider": "Dr. Mark Feldman",
+  "referring_npi": "1012587436",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K21.9"
+  ],
+  "reason": "Chronic reflux not responding to PPI",
+  "urgency": "routine"
+}

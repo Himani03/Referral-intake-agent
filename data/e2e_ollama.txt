@@ -1,0 +1,29 @@
+{"fax_id": "FAX-07-0000", "status": "submitted", "referral_id": 1, "seconds": 5.02}
+{"fax_id": "FAX-07-0001", "status": "submitted", "referral_id": 2, "seconds": 4.99}
+{"fax_id": "FAX-07-0002", "status": "submitted", "referral_id": 3, "seconds": 5.4}
+{"fax_id": "FAX-07-0003", "status": "submitted", "referral_id": 4, "seconds": 5.45}
+{"fax_id": "FAX-07-0004", "status": "submitted", "referral_id": 5, "seconds": 5.22}
+{"fax_id": "FAX-07-0005", "status": "submitted", "referral_id": 6, "seconds": 4.98}
+{"fax_id": "FAX-07-0006", "status": "submitted", "referral_id": 7, "seconds": 4.87}
+{"fax_id": "FAX-07-0007", "status": "submitted", "referral_id": 8, "seconds": 5.28}
+{"fax_id": "FAX-07-0008", "status": "submitted", "referral_id": 9, "seconds": 4.98}
+{"fax_id": "FAX-07-0009", "status": "submitted", "referral_id": 10, "seconds": 4.8}
+{"fax_id": "FAX-07-0010", "status": "submitted", "referral_id": 11, "seconds": 5.48}
+{"fax_id": "FAX-07-0011", "status": "submitted", "referral_id": 12, "seconds": 4.75}
+{"fax_id": "FAX-07-0012", "status": "submitted", "referral_id": 13, "seconds": 5.39}
+{"fax_id": "FAX-07-0013", "status": "submitted", "referral_id": 14, "seconds": 5.55}
+{"fax_id": "FAX-07-0014", "status": "submitted", "referral_id": 15, "seconds": 5.62}
+{"fax_id": "FAX-07-0015", "status": "submitted", "referral_id": 16, "seconds": 5.81}
+{"fax_id": "FAX-07-0016", "status": "submitted", "referral_id": 17, "seconds": 5.37}
+{"fax_id": "FAX-07-0017", "status": "submitted", "referral_id": 18, "seconds": 4.9}
+{"fax_id": "FAX-07-0018", "status": "review", "reason": "invalid: referring_npi"}
+{"fax_id": "FAX-07-0019", "status": "submitted", "referral_id": 19, "seconds": 5.12}
+{"fax_id": "FAX-07-0020", "status": "submitted", "referral_id": 20, "seconds": 4.9}
+{"fax_id": "FAX-07-0021", "status": "submitted", "referral_id": 21, "seconds": 5.54}
+{"fax_id": "FAX-07-0022", "status": "submitted", "referral_id": 22, "seconds": 5.06}
+{"fax_id": "FAX-07-0023", "status": "submitted", "referral_id": 23, "seconds": 5.03}
+{"fax_id": "FAX-07-0024", "status": "submitted", "referral_id": 24, "seconds": 4.95}
+summary: {'submitted': 24, 'review': 1}
+(True, '99 entries verified')
+3
+24|24

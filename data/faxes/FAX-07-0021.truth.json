@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Emily",
+  "patient_last_name": "Brooks",
+  "patient_dob": "1975-10-08",
+  "patient_phone": "(654) 351-1003",
+  "insurance_payer": "Kaiser Permanente",
+  "insurance_member_id": "AY13668183",
+  "referring_provider": "Dr. Joy Mensah",
+  "referring_npi": "1912821083",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K50.90",
+    "K21.9"
+  ],
+  "reason": "Suspected Crohn's disease; Chronic reflux not responding to PPI",
+  "urgency": "urgent"
+}

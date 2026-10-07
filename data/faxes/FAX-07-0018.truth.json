@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Carlos",
+  "patient_last_name": "Okafor",
+  "patient_dob": "1960-06-01",
+  "patient_phone": "(524) 412-9008",
+  "insurance_payer": "Aetna PPO",
+  "insurance_member_id": "AY68821807",
+  "referring_provider": "Dr. Linda Park",
+  "referring_npi": "1554563688",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I10",
+    "R07.9"
+  ],
+  "reason": "Uncontrolled hypertension despite two agents; Chest pain on exertion, abnormal ECG",
+  "urgency": "routine"
+}

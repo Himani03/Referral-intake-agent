@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Maria",
+  "patient_last_name": "Johnson",
+  "patient_dob": "1980-11-11",
+  "patient_phone": "(374) 371-1799",
+  "insurance_payer": "Aetna PPO",
+  "insurance_member_id": "XX58138942",
+  "referring_provider": "Dr. Mark Feldman",
+  "referring_npi": "1932817723",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I48.91",
+    "I10"
+  ],
+  "reason": "New onset atrial fibrillation; Uncontrolled hypertension despite two agents",
+  "urgency": "urgent"
+}

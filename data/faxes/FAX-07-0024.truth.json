@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Omar",
+  "patient_last_name": "Chen",
+  "patient_dob": "1972-07-28",
+  "patient_phone": "(483) 340-7239",
+  "insurance_payer": "Aetna PPO",
+  "insurance_member_id": "CZ17785228",
+  "referring_provider": "Dr. Joy Mensah",
+  "referring_npi": "1199897863",
+  "specialty": "Ophthalmology",
+  "icd10_codes": [
+    "E11.3293"
+  ],
+  "reason": "Diabetic retinopathy follow-up",
+  "urgency": "routine"
+}

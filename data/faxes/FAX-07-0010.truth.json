@@ -1,0 +1,17 @@
+{
+  "patient_first_name": "Emily",
+  "patient_last_name": "Brooks",
+  "patient_dob": "1995-02-28",
+  "patient_phone": "(860) 626-9560",
+  "insurance_payer": "Kaiser Permanente",
+  "insurance_member_id": "ZB84657902",
+  "referring_provider": "Dr. Linda Park",
+  "referring_npi": "1062179845",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K50.90",
+    "R19.5"
+  ],
+  "reason": "Suspected Crohn's disease; Positive FIT test, needs colonoscopy",
+  "urgency": "urgent"
+}

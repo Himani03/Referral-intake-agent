@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Hiro",
+  "patient_last_name": "Alvarez",
+  "patient_dob": "1954-11-26",
+  "patient_phone": "(328) 542-2743",
+  "insurance_payer": "UnitedHealthcare",
+  "insurance_member_id": "AB26308661",
+  "referring_provider": "Dr. Linda Park",
+  "referring_npi": "1059006076",
+  "specialty": "Gastroenterology",
+  "icd10_codes": [
+    "K21.9"
+  ],
+  "reason": "Chronic reflux not responding to PPI",
+  "urgency": "routine"
+}

@@ -1,0 +1,16 @@
+{
+  "patient_first_name": "Aisha",
+  "patient_last_name": "Kim",
+  "patient_dob": "1948-02-04",
+  "patient_phone": "(308) 850-6904",
+  "insurance_payer": "Aetna PPO",
+  "insurance_member_id": "CA37094198",
+  "referring_provider": "Dr. Mark Feldman",
+  "referring_npi": "1618288801",
+  "specialty": "Cardiology",
+  "icd10_codes": [
+    "I48.91"
+  ],
+  "reason": "New onset atrial fibrillation",
+  "urgency": "routine"
+}
